@@ -1,5 +1,4 @@
 # gotmtool
-1D ocean mixing parameterization schemes for convective forcings and other.
 
 Python tools to work with [GOTM](https://gotm.net).
 

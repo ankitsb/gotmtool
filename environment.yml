@@ -1,0 +1,15 @@
+name: gotm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - gfortran=11
+  - netcdf-fortran
+  - cmake
+  - xarray
+  - scipy
+  - ruamel.yaml
+  - jupyter
+  - notebook
+  - matplotlib
+  - pip
